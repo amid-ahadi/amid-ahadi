@@ -1,47 +1,48 @@
-# سلام! 👋 من عميد احدی هستم
+# سلام! 👋 من عمید احدی هستم
 
 [![GitHub followers](https://img.shields.io/github/followers/amid-ahadi?style=social)](https://github.com/amid-ahadi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amid-ahadi-b9359514a/)
 [![CEH Certified](https://img.shields.io/badge/CEH-Certified-%230056D6?logo=certification)](https://www.eccouncil.org/)
 [![CCNP Certified](https://img.shields.io/badge/CCNP-Certified-%230056D6?logo=cisco)](https://www.cisco.com/)
 
-یک **توسعه‌دهندهٔ وب** و **برنامه‌نویس چندوجهی** با تخصص در **امنیت سایبری**، **مدیریت شبکه** و **سیستم‌های لینوکس**.  
-با ترکیبی از خلاقیت در طراحی و عمق فنی در کدنویسی و امنیت، راه‌حل‌هایی هوشمند، ایمن و کارآمد خلق می‌کنم.
+**توسعه‌دهندهٔ وب | متخصص امنیت سایبری (CEH) | مهندس شبکه (CCNP/CCNA) | سیستم‌ادمین لینوکس**  
+با ترکیبی از کدنویسی، امنیت، شبکه و طراحی، راه‌حل‌هایی هوشمند، ایمن و کارآمد برای چالش‌های دنیای دیجیتال خلق می‌کنم.
 
 ---
 
 ## 📜 گواهینامه‌های حرفه‌ای
 
-- **CEH (Certified Ethical Hacker)** – متخصص امنیت اخلاقی  
-- **CCNP (Cisco Certified Network Professional)** – حرفه‌ای شبکه سیسکو  
-- **CCNA (Cisco Certified Network Associate)** – پایه‌های شبکه سیسکو  
-- **MCSA (Microsoft Certified Solutions Associate)** – راه‌حل‌های سرور و ابر مایکروسافت  
-- **MCP (Microsoft Certified Professional)** – متخصص فناوری مایکروسافت  
-- **CompTIA A+** – پایه‌های فناوری اطلاعات و سخت‌افزار  
+- **CEH (Certified Ethical Hacker)** – متخصص امنیت اخلاقی و تست نفوذ  
+- **CCNP (Cisco Certified Network Professional)** – طراحی و پیاده‌سازی شبکه‌های پیچیده  
+- **CCNA (Cisco Certified Network Associate)** – پایه‌های شبکه و روتینگ/سوئیچینگ  
+- **MCP (Microsoft Certified Professional)** – تخصص در فناوری‌های مایکروسافت  
+- **CompTIA A+** – پایه‌های سخت‌افزار، نرم‌افزار و پشتیبانی فنی  
 
 
+---
 
 ## 🧠 مهارت‌های کلیدی
 
-### 💻 برنامه‌نویسی و توسعه
-- **زبان‌ها:** Python, PHP, HTML/CSS, JavaScript (اساسی)
-- **حوزه‌ها:** توسعهٔ وب، اسکریپت‌نویسی اتوماسیون، امنیت برنامه‌های کاربردی
+### 💻 توسعه و اتوماسیون
+- **زبان‌ها:** Python, PHP, HTML/CSS, JavaScript  
+- **حوزه‌ها:** توسعهٔ وب، اسکریپت‌نویسی امن، اتوماسیون امنیتی
 
 ### 🔒 امنیت سایبری
-- گواهینامه **CEH (Certified Ethical Hacker)**
-- تست نفوذ، تحلیل آسیب‌پذیری، سخت‌افزار و نرم‌افزار امنیتی
-- امن‌سازی سرورها و برنامه‌های تحت وب
+- تست نفوذ (Penetration Testing)  
+- تحلیل آسیب‌پذیری و رفع نقاط ضعف  
+- امن‌سازی برنامه‌ها و سرورهای تحت وب
 
 ### 🌐 شبکه و سیستم
-- گواهینامه **CCNP (Cisco Certified Network Professional)**
-- پیکربندی و مدیریت روترها، سوئیچ‌ها و فایروال‌ها
-- تسلط کامل به **لینوکس** (Debian, Ubuntu, CentOS) — از خط فرمان تا سرویس‌های سیستمی
+- پیکربندی روترها، سوئیچ‌ها و فایروال‌ها (Cisco)  
+- مدیریت سرورهای لینوکس (Debian, Ubuntu, CentOS)  
+- خط فرمان، سرویس‌ها، امنیت سیستم و مانیتورینگ
 
-### 🎨 طراحی و خلاقیت
-- طراحی رابط‌های کاربری ساده و کاربرپسند
-- توانایی تبدیل ایده‌ها به راه‌حل‌های عملی و زیبا
+### 🎨 طراحی و راه‌حل‌محوری
+- طراحی رابط‌های کاربری ساده و کاربرپسند  
+- تبدیل ایده‌ها به راه‌حل‌های عملی با رویکرد امنیت‌محور
 
 ---
+
 ## 🛠️ ابزارهای مورد استفاده
 
 ### 💻 توسعه و سیستم
@@ -51,7 +52,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-### 🔍 امنیت سایبری و تست نفوذ
+### 🔍 امنیت و تست نفوذ
 ![Nmap](https://img.shields.io/badge/Nmap-0077B5?logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white)
@@ -62,18 +63,18 @@
 
 ## 📬 با من در ارتباط باشید
 
-- 📧 ایمیل: [amid.ahadi@gmail.com](mailto:amid.ahadi@gmail.com)
-- 💼 لینکدین: [linkedin.com/in/amid-ahadi](https://www.linkedin.com/in/amid-ahadi-b9359514a/)
-- 🐦 وب سايت: [amid-ahadi.ir](https://amid-ahadi.ir)
+- 📧 ایمیل: [amid.ahadi@gmail.com](mailto:amid.ahadi@gmail.com)  
+- 💼 لینکدین: [linkedin.com/in/amid-ahadi](https://www.linkedin.com/in/amid-ahadi-b9359514a/)  
+- 🌐 وب‌سایت: [amid-ahadi.ir](https://amid-ahadi.ir)
 
 ---
 
 ## 📊 آمار گیت‌هاب
 
-![Amid's GitHub stats](https://github-readme-stats.vercel.app/api?username=amid-ahadi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amid-ahadi&layout=compact&theme=radical)
+![Amid's GitHub stats](https://github-readme-stats.vercel.app/api?username=amid-ahadi&show_icons=true&theme=radical&locale=fa)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amid-ahadi&layout=compact&theme=radical&locale=fa)
 
 ---
 
-> "دنیا را نمی‌توان با همان روش‌هایی که ساخته شده، تغییر داد." — آلبرت اینشتین  
-> من سعی می‌کنم هر روز کمی دنیای دیجیتال را بهتر کنم. 🌍✨
+> _«دنیا را نمی‌توان با همان روش‌هایی که ساخته شده، تغییر داد.»_ — آلبرت اینشتین  
+> من هر روز تلاش می‌کنم دنیای دیجیتال را کمی ایمن‌تر، هوشمندتر و زیباتر کنم. 🌍✨
