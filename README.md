@@ -51,7 +51,7 @@
 
 ## 📬 با من در ارتباط باشید
 
-- 📧 ایمیل: [amid.ahadi@example.com](mailto:amid.ahadi@gmail.com)
+- 📧 ایمیل: [amid.ahadi@gmail.com](mailto:amid.ahadi@gmail.com)
 - 💼 لینکدین: [linkedin.com/in/amid-ahadi](https://www.linkedin.com/in/amid-ahadi-b9359514a/)
 - 🐦 وب سايت: [amid-ahadi.ir](https://amid-ahadi.ir)
 
